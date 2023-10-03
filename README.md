@@ -23,8 +23,10 @@ Welcome to my Data Analytics Portfolio Website! This collection showcases variou
 
    Check out my Tableau profile, where you'll discover a collection of interactive dashboards that bring data to life.
 
+3. [**Power BI Reports**](https://egmariano18.github.io/portfolio/powerbi.html)
 
-
+   Check out my Power BI Reports.These visualizations unlock valuable insights from data, making complex information easy to understand. 
+   
 ## Contact
 
 - :email: egmariano.618@gmail.com
