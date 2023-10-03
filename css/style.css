@@ -693,12 +693,26 @@ textarea {
     animation: wheel 1.3s infinite;
     -webkit-animation: wheel 1.3s infinite; }
 
+.powerbi-frame {
+  width: 1024px; 
+  height: 636px; 
+  margin: 0 auto; 
+  }
+
+@media (max-width: 600px) {
+  .powerbi-frame {
+    max-width: 100%; 
+    height : 300px;
+  }
+  }
+
 @keyframes wheel {
   to {
     opacity: 0;
-    top: 27px; } }
+    top: 27px; } }s
 
 @-webkit-keyframes wheel {
   to {
     opacity: 0;
     top: 27px; } }
+
